@@ -50,5 +50,5 @@
 
 #### 의사록 어조 분석 결과
 
-![image-20200907171049242]([통계기반 자연어처리 프로젝트]텍스트마이닝을 활용한 금융통화위원회 의사록 분석 논문 구현/8.[BOK_Report]_의사록 어조 분석 결과.png)
+![8 BOK_Report _의사록 어조 분석 결과](https://user-images.githubusercontent.com/67994640/92378359-a6fcae80-f140-11ea-89e1-3b15bca489a4.png)
 
